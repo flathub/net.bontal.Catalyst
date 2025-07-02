@@ -49,13 +49,13 @@ modules:
     sources:
       - type: file
         url: https://pkg.bontal.net/downloads/releases/catalyst-1.1.0-linux-x64.tar.gz
-        sha256: 13b4f3b0e26364a50ce7679a6346c49846fdd3382f54dc88f8a1a0c78bde80d7
+        sha256: 730bacde5ff2af7c848cfde40c3a8202678c234a6d67414992e0d53801cbfe96
         dest-filename: catalyst-bundle.tar.gz
         only-arches:
           - x86_64
       - type: file
         url: https://pkg.bontal.net/downloads/releases/catalyst-1.1.0-linux-arm64.tar.gz
-        sha256: c332080e23b862a327091d31ab94a19f5d2c7b8c321443cddcac81c388dabbc7
+        sha256: dda272326adb7a7a38adc718f6a46f5847d7da4001aeb3b06a2df584dd34ad0b
         dest-filename: catalyst-bundle.tar.gz
         only-arches:
           - aarch64
