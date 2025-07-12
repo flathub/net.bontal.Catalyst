@@ -48,8 +48,8 @@ modules:
       - cp -a /app/catalyst/share/* /app/share/
     sources:
       - type: file
-        url: https://pkg.bontal.net/downloads/releases/catalyst-1.1.1-linux-x64.tar.gz
-        sha256: 4b993db14d36844cc97263409c9e268b2a09f1eb7586f04bae01bd3b024e3fc4
+        url: https://pkg.bontal.net/downloads/releases/catalyst-1.2.0-linux-x64.tar.gz
+        sha256: c80cf9528940d9f7b2f13ece90529287efee1c549388a5e43cad52de25a0d631
         dest-filename: catalyst-bundle.tar.gz
         only-arches:
           - x86_64
