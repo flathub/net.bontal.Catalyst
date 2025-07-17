@@ -49,7 +49,7 @@ modules:
     sources:
       - type: file
         url: https://pkg.bontal.net/downloads/releases/catalyst-1.2.1-linux-x64.tar.gz
-        sha256: 0f6ce1a11ddee3c338ab55661c9968bd2e295fa87a8f68420a37a0bcce773b0f
+        sha256: 496d87c5f6c5069963652e888e0e1897335f3dbdd98344b2058dcf45cd844b33
         dest-filename: catalyst-bundle.tar.gz
         only-arches:
           - x86_64
