@@ -23,6 +23,7 @@ modules:
       - cp -a ./* /app/catalyst/
       - mkdir -p /app/bin
       - ln -s /app/catalyst/catalyst /app/bin/catalyst
+      - mkdir -p /app/share/
       - cp -a /app/catalyst/share/* /app/share/
     sources:
       - type: file
