@@ -3,8 +3,6 @@ runtime: org.freedesktop.Platform
 runtime-version: "25.08"
 sdk: org.freedesktop.Sdk
 command: catalyst
-tags:
-  - proprietary
 
 finish-args:
   - --share=ipc
